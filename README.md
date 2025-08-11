@@ -2,7 +2,7 @@
 
 ## 🎥 Vídeo Demonstrativo  
 Para ver todo o processo do projeto em ação, assista ao vídeo explicativo:  
-👉 <a href="https://www.youtube.com/watch?v=GXAscrgeP4c" target="_blank" rel="noopener noreferrer">Clique aqui para assistir ao vídeo no YouTube</a>
+👉 [Clique aqui para assistir ao vídeo no youtube](https://www.youtube.com/watch?v=GXAscrgeP4c) 
 
 
 ---

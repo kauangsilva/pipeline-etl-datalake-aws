@@ -2,7 +2,8 @@
 
 ## 🎥 Vídeo Demonstrativo  
 Para ver todo o processo do projeto em ação, assista ao vídeo explicativo:  
-👉 [Clique aqui para assistir ao vídeo no youtube](https://www.youtube.com/watch?v=GXAscrgeP4c)  
+👉 <a href="https://www.youtube.com/watch?v=GXAscrgeP4c" target="_blank" rel="noopener noreferrer">Clique aqui para assistir ao vídeo no YouTube</a>
+
 
 ---
 
@@ -26,16 +27,16 @@ O fluxo foi projetado para ser totalmente **serverless**, ou seja, sem necessida
 
 ## 📂 Estrutura do Projeto no S3  
 /sourcedata
-├── clientes_csv.csv
-├── vendedores_csv.csv
-├── produtos_csv.csv
-├── vendas_csv.csv
-├── itensvenda_csv.csv
+* clientes_csv.csv
+* vendedores_csv.csv
+* produtos_csv.csv
+* vendas_csv.csv
+* itensvenda_csv.csv
 
 /datalake
-├── status_vendedor=Gold/...
-├── status_vendedor=Silver/...
-├── status_vendedor=Platinum/...
+* status_vendedor=Gold/...
+* status_vendedor=Silver/...
+* status_vendedor=Platinum/...
 
 /logs
 /scripts
@@ -58,17 +59,17 @@ No **AWS Glue Studio**, foram realizadas as seguintes etapas:
 
 ## 📁 Estrutura do Repositório  
 /evidencias
-├── prints_s3.png
-├── prints_glue_crawler.png
-├── prints_glue_studio.png
-├── prints_athena.png
+- prints_s3.png
+- prints_glue_crawler.png
+- prints_glue_studio.png
+- prints_athena.png
 
 /sourcedata
-├── clientes_csv.csv
-├── vendedores_csv.csv
-├── produtos_csv.csv
-├── vendas_csv.csv
-├── itensvenda_csv.csv
+- clientes_csv.csv
+- vendedores_csv.csv
+- produtos_csv.csv
+- vendas_csv.csv
+- itensvenda_csv.csv
 
 ---
 

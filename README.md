@@ -39,7 +39,9 @@ O fluxo foi projetado para ser totalmente **serverless**, ou seja, sem necessida
 * status_vendedor=Platinum/...
 
 /logs
+
 /scripts
+
 /temp
 
 ## 🔄 Processo de ETL  

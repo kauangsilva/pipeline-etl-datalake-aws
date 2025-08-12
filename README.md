@@ -89,3 +89,9 @@ No **AWS Glue Studio**, foram realizadas as seguintes etapas:
 - **Parquet** – Formato otimizado para consulta e armazenamento
 
 ---
+
+## 📬 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/kauansilva96/)
+- [Biolink](https://biolink.website/socialKauanSilva)
+- Email: kauangsilva1996@gmail.com

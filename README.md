@@ -92,6 +92,5 @@ No **AWS Glue Studio**, foram realizadas as seguintes etapas:
 
 ## 📬 Contato
 
-
-                               [Kauan Silva](https://biolink.website/socialKauanSilva)
+- [Kauan Silva](https://biolink.website/socialKauanSilva)
 
